@@ -1,0 +1,21 @@
+@media screen and (max-width:1000px) {
+  .qutu{
+    display: none; 
+    
+  }
+ .logoo{
+  width: 150px;
+  height: auto;
+  object-fit: contain;
+  padding-right: 150px;
+  margin-bottom: 250px;
+ }
+ .navbar_login{
+  display: none;
+
+ }
+ .menuu{
+  display: block;
+  margin-bottom: 250px;
+ }
+}
